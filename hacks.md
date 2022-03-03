@@ -12,9 +12,9 @@
 * justify    --> horizontal -- x
 * items (todos) / self (uno)
 ---
-shrink       --> encoger
-wrap         --> envolver, envoltura
-grid         --> cuadricula
-overflow     --> desbordamiento, rebosar
-span         --> abarcar
-overlapping  --> superposicion
+*shrink       --> encoger
+*wrap         --> envolver, envoltura
+*grid         --> cuadricula
+*overflow     --> desbordamiento, rebosar
+*span         --> abarcar
+*overlapping  --> superposicion
