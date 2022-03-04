@@ -10,7 +10,7 @@
 ---
 * align      --> vertical   -- y  |  items (todos) / self (uno)
 * justify    --> horizontal -- x
-* 
+
 ---
 * shrink       --> encoger
 * wrap         --> envolver, envoltura
