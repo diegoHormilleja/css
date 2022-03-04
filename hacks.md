@@ -8,9 +8,9 @@
 * grid div          --> div qe esta dentro de la clase grid
 * nested-grid > div  --> para todos los div que esten dentro de nested-grid (ESPECIFICAMENTE)
 ---
-* align      --> vertical   -- y
+* align      --> vertical   -- y  |  items (todos) / self (uno)
 * justify    --> horizontal -- x
-* items (todos) / self (uno)
+* 
 ---
 * shrink       --> encoger
 * wrap         --> envolver, envoltura
